@@ -16,5 +16,5 @@ and self-rated fitness on an 1-to-5 scale, where 1 is poor shape and 5 is excell
 Perform descriptive analytics to create a customer profile for each CardioGood Fitness treadmill product line.¶
 
 
-##Project 
+## Project 
 its the final project of Statistics for Data Science cource
